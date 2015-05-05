@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RaspberryPi Home-Automation</string>
+    <string name="action_settings">Settings</string>
+    <string name="herrzlichWillkommen">RaspberryPi Home-Automation Home Screen</string>
+    <string name="button_zimmerauswertung">Temperaturauswertung</string>
+    <string name="screen_zimmerauswertung">Temperatur/Luftfeuchtigkeit Auswertung</string>
+    <string name="btn_anfrage_senden">Abrage senden!</string>
+    <string name="spinner_auswahl">ZimmerA</string>
+    <string name="txtfield_ausgabe">Hier sollte die Ausgabe stehen</string>
+    <string name="screen_steckdosen_steuerung">Bitte Steckdose auswählen!</string>
+    <string name="btn_steckdose_ein">Steckdose einschalten!</string>
+    <string name="btn_steckdose_aus">Steckdose ausschalten!</string>
+    <string name="btn_steckdosen_ansteuern">Steckdosen ansteuern!</string>
+    <string name="screen_wetter_com">Wettervorhersage</string>
+    <string name="screen_wetter_com_06_00">Wettervorhersage 06&#8211;11 Uhr</string>
+    <string name="screen_wetter_com_11_00">Wettervorhersage 11&#8211;17 Uhr</string>
+    <string name="screen_wetter_com_17_00">Wettervorhersage 17&#8211;23 Uhr</string>
+    <string name="screen_wetter_com_23_00">Wettervorhersage 23&#8211;06 Uhr</string>
+    <string name="btn_wetter_06_00">06&#8211;11 Uhr</string>
+    <string name="btn_wetter_11_00">11&#8211;17 Uhr</string>
+    <string name="btn_wetter_17_00">17&#8211;23 Uhr</string>
+    <string name="btn_wetter_23_00">23&#8211;06 Uhr</string>
+    <string name="btn_home">Home</string>
+    <string name="leer">""</string>
+    <string name="btn_ueberwachungskamera">"Ueberwachungskamera"</string>
+    <string name="thermometer_willkommen">Temperatur/Luftfeuchtigkeit\nRaspberry Pi</string>
+    <string name="btn_langzeitauswertung">"Langzeitauswertung"</string>
+    <string name="btn_momentanwerte">"Momentanwerte"</string>
+    <string name="btn_avg">"Min/Max/AVG Werte"</string>
+    <string name="settings_home">"Raspberry Pi Settings"</string>
+    <string name="bewegungsmelder_aus">"Bewegungsmelder deaktivieren"</string>
+    <string name="bewegungsmelder_ein">"Bewegungsmelder aktivieren"</string>
+    <string name="trigger_ein">"Trigger Steckdose aktivieren"</string>
+    <string name="trigger_aus">"Trigger Steckdose deaktivieren"</string>
+
+
+</resources>

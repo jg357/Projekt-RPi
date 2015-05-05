@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zimmer">
+        <item >Wohnzimmer</item>
+        <item >Kueche</item>
+        <item >Kinderzimmer</item>
+    </string-array>
+    
+</resources>

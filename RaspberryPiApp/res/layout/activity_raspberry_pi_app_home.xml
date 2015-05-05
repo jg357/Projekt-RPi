@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/black"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/button_zimmerauswertung"
+            android:gravity="center_horizontal"
+            android:scaleType="fitCenter"
+            android:onClick="onButtonClick"
+            android:src="@drawable/index" />
+
+    <Button
+        android:id="@+id/btn_zimmerauswertung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:onClick="onButtonClick"
+        android:text="@string/button_zimmerauswertung"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_steckdosen_ansteuern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:onClick="onButtonClick"
+        android:text="@string/btn_steckdosen_ansteuern"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_wetter_com"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp" 
+        android:layout_marginTop="4dp"
+        android:onClick="onButtonClick"
+        android:text="@string/screen_wetter_com"
+        android:textColor="@color/white" />
+
+
+
+    <Button
+        android:id="@+id/btn_ueberwachungskamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:onClick="onButtonClick"
+        android:text="@string/btn_ueberwachungskamera"
+        android:textColor="@color/white" />
+
+</LinearLayout>
